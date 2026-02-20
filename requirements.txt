@@ -1,0 +1,18 @@
+# Web Framework & Server
+fastapi==0.115.9
+uvicorn[standard]==0.34.0
+
+# Database & Graph
+neo4j==5.26.0
+
+# AI & Machine Learning
+sentence-transformers==3.3.0
+google-genai==1.0.0
+python-dotenv==1.0.1
+
+# Frontend UI
+streamlit==1.42.0
+requests==2.32.3
+
+# Data Processing
+pandas==2.2.3
