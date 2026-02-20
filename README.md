@@ -67,3 +67,8 @@ Relationships: INCURRED_BY, USES_SERVICE, MAPS_TO.
 Built as part of the AAIDC FinOps Project.
 
 Based on the FOCUS 1.0 specification.
+
+
+Output/Results :
+https://drive.google.com/file/d/1H6wXH7RjLqYcHVe9qJUt5phrHLn8cfX1/view?usp=sharing
+
